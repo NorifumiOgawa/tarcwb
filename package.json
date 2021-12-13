@@ -1,11 +1,22 @@
 {
   "name": "tarc-wordbook",
-  "version": "1.0.0",
-  "description": "English-Japanese Wordbook for TARC.",
+  "version": "0.0.1",
+  "description": "This is an English-Japanese wordbook application for reading The Art of Readable Code.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NorifumiOgawa/tarc-wordbook.git"
+  },
   "author": "ogaworks",
-  "license": "ISC"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NorifumiOgawa/tarc-wordbook/issues"
+  },
+  "homepage": "https://github.com/NorifumiOgawa/tarc-wordbook#readme",
+  "devDependencies": {
+    "enquirer": "^2.3.6"
+  }
 }

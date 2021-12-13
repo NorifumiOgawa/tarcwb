@@ -24,14 +24,17 @@ async function searchDictionary (word) {
       input: rs
   });
   let pageNumber
+  let counter = 0
   for await (const line of rl) {
     let lineLc = line.toLowerCase()
     let wordLc = word.toLowerCase()
     if (line.includes('P') && !line.includes(':')) pageNumber = line
     if (lineLc.includes(wordLc)) {
-      console.log(`${pageNumber}) ${lineLc.trim()}`)
+      counter++
+      console.log(`${pageNumber}~ ${lineLc.trim()}`)
     }
   }
+  if (counter == 0) {console.log('not found.')}
 }
 
 async function main () {
