@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
-const DATA_FILE = __dirname + '/dictionary.txt'
+const path = require('path')
+const DATA_FILE = path.join(__dirname, 'dictionary.txt')
 
 async function waitWord () {
   const { prompt } = require('enquirer')
