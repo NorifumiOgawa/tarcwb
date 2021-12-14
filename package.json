@@ -1,22 +1,33 @@
 {
-  "name": "tarc-wordbook",
-  "version": "0.0.1",
+  "name": "tarcwb",
+  "version": "0.9.1",
   "description": "This is an English-Japanese wordbook application for reading The Art of Readable Code.",
   "main": "index.js",
+  "bin": {
+    "tarcwb": "./index.js"
+  },
+  "preferGlobal": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NorifumiOgawa/tarc-wordbook.git"
+    "url": "git+https://github.com/NorifumiOgawa/tarcwb.git"
   },
   "author": "ogaworks",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NorifumiOgawa/tarc-wordbook/issues"
+    "url": "https://github.com/NorifumiOgawa/tarcwb/issues"
   },
-  "homepage": "https://github.com/NorifumiOgawa/tarc-wordbook#readme",
-  "devDependencies": {
+  "homepage": "https://github.com/NorifumiOgawa/tarcwb#readme",
+  "dependencies": {
     "enquirer": "^2.3.6"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0"
   }
 }

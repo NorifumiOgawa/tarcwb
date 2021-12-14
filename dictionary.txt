@@ -1,0 +1,787 @@
+# The Art of Readable Code 単語
+
+###### tags: `TheArtOfReadableCode`
+
+P18
+- gut feeling: 直感
+- elaborate: 苦労して作り上げた、入念な
+- intimidating: 威嚇するような、おびえさせるような
+- criterion： 基準、規範
+
+P19
+- metric: 対象の属性や状態を一定の基準に基づいて測定したり数値化したものを指す
+- Theorem：　定理、法則
+
+P20
+- realm: 領域、範囲
+- circumstance: (ある事件・人・行動などに関連する周囲の)事情,状況; condition
+- to factor: 因数分解する(?)
+
+P22
+- neatly: きちんと、こぎれいに
+- in aggregate: 全体で［として］、総計で、総体で、概して
+- incrementally: 増加的に、拡張的に（？）
+
+P23
+- vague: 曖昧な
+
+P24
+- memory footprint: プログラムが実行中に使用または参照するメインメモリの合計値を意味する。
+
+P25
+- resume: 再び始める、再開する、復旧させる
+- thesaurus: 同義語
+
+P26
+- accumulate: 【他動】積み重ねる、蓄積する、累積する
+
+P27
+- sole: 唯一の、単一の
+- laziness:　怠惰さ、レイジーの名詞
+
+P28
+- descriptive: 記述的な
+- iteration: https://ja.wikipedia.org/wiki/イテレータ
+
+P29
+- succinctly: 簡潔に
+- verdict: 【名】 〔陪審員の〕評決 判断、意見、決定、裁定
+
+P30
+- variable: 変数
+- argument: 引数
+
+P31
+- mishap: (ちょっとした)不運な事故
+- overly: 過剰に
+- provocative: （人）を刺激する［挑発する・怒らせる］ 〔性的に〕挑発する
+- circumstance: 【名】(ある事件・人・行動などに関連する周囲の)事情,状況
+- convention: 習慣、しきたり、集会、会議
+
+P32
+- orthogonal:　直交の
+- explicit: 明白な，はっきりした，明示的な
+
+P36
+- a critical thing: 肝心のもの
+
+P37
+- implicit constraint: 暗黙のルール？？
+- judgment call: 好みによる
+- identifier: 識別子
+
+P38
+- snippet: スニペット
+
+P39
+- resort to~: 頼る
+- abbreviation: 略語
+
+P40
+- constant value: 定数
+- distinguish: 区別する
+- convention: 習慣、しきたり、集会、会議
+
+P41
+- convention: 習慣、しきたり、集会、会議
+
+P42
+- prepend: 前に付け加える。
+- append: 後ろに付け加える。ITではファイルなどにデータを追加する操作などをこのように呼ぶことが多い。
+- ambiguous: 2通り以上の解釈を許す
+
+P44
+- to get rid of: 取り除く
+- to pick out: 選びとる、選び出す
+
+P45
+- off-by-one-bug: 一つずれ（てい）るバグ。プログラミング上のミスで、主に境界に関するもの。「未満」と「以下」を間違えた場合など。
+
+P47
+- convention: 習慣、しきたり、集会、会議
+- ambiguous: 2通り以上の解釈を許す
+
+P48
+- negated terms: 否定形
+- preconceived ideas: 既成観念
+- give in: 諦める、妥協する
+
+P49
+- implementation: 実装
+- on the fly: 実行中、大量のデータを実行する
+- mean: 平均
+- compute: 計算する
+- slow down to a crawl: のろくなる
+- node by node:　点ごとに
+- O(n2) operation: big oh of N square, オー記法
+
+P50
+- mandates: 与える
+
+P51
+- inherit: 継承、相続
+
+P54
+- aesthetically: 美的、エステティカリー（エステ）
+- easy on the eyes: 目に優しい
+
+P55
+- quite a bit.: かなりの確率で
+
+P56
+- skim through: ひと目でわかる、ざっと目を通す
+
+P60
+- in one eyeful: 一目瞭然
+
+P61
+- Alignment: 配置、揃え
+- argument: 引数
+- variable definition: 変数定義
+
+P62
+- visual handrails: 視覚的手すり
+
+P64
+- apart from: 引き離す
+- lump: 塊
+
+P65
+
+- a number of distinct steps: 複数の別々のステップ
+- break up: 分割する
+
+P66
+- skim through: ひと目でわかる, ざっと読む
+- as with 同様に
+- Consistently: 一貫性
+- boil down to: 要約する
+
+P68
+- left out: 
+
+P69
+- underserved: 注目されていない
+- aspect: 側面
+- put someones shoes: その人の立場になって考える
+
+P71
+- for the sake of: ～のために［を考えて］、～の利益のために、～の目的で
+- function declaration: 関数宣言
+
+P72
+- `>`: greater than
+- `>=`: greater than or equal to
+- `<`: less than
+- `<=`: less than or equal to
+- make up for: 埋め合わせをする
+- as stated: 記載されている
+- self-documenting: 自己文書化 
+
+P74
+- optimizer: 最適化
+
+P75
+- bound to: ～する運命にある
+- state of: 〜の状態
+- specific value: 特定の値
+
+P76
+- guidance: 指標になる
+- overkill: 過剰
+- impose a reasonable limit: 妥当な制限を課す
+- improve: 改善する
+- jotting down: 書き留める, ～を手早くメモする
+- in someone's shoes: ~の立場に立って
+- outsider: 部外者
+- intimately: 親密に
+- anticipating: 予想する
+
+P78
+- relinquish: 解放する
+- memory allocator: メモリアロケータ, メモリの割当をする機構。
+- pitfalls: 落とし穴
+
+P79
+- think ahead: 前もって考える
+- anticipate: 予測する
+- suppose: 仮定する
+- implementation: 実装
+- involves: 必要とする
+- hang: 処理が固まる、落ちる
+- prevent: 防ぐ
+- mishap: 不幸な出来事
+- attempt: 試みる
+- except for the caveat: 警告、ただし、注意点があります。
+- blow up: 爆発的に
+
+P80
+- nasty: ひどい、汚れた
+- rather than ~: ~よりむしろ
+- on his own: 自分で
+- upfront: 前もって
+- so watch out~ : 〜だから気をつけなさい
+- big picture: 全体像
+- earthling: 地球人
+- enclose: 同封する
+- immortality: 不死身
+- curing any disease: どんな病気も治す
+- entry point: コンピュータプログラムを実行する際に、一番最初に実行することになっている箇所のこと。 
+- interact: 連携
+- stuff: もの、こと
+- intimately involved: よく慣れている
+- thought experiment: 思考実験
+- to get her familiar: 慣れてもらう
+- glue code: グルーコード、ライブラリやプログラムを橋渡しする
+
+P81
+- complicated: 複雑
+- the rest of the system: システムの他の部分
+- handles : 扱う
+- nitty-gritty: 核心
+- bulleted summary: 箇条書き
+
+P82
+- overwhelmed: 圧倒される
+- by the thought that~: ~という思いで
+- extensive: 広範囲に
+- better than nothing at all: 無いよりまし
+- neatly summarized: 手際よくまとめられた
+- a bit of mystery: ちょっとした謎
+- iterating: 繰り返し処理する
+- chunks: 塊
+- act as a bulleted summary: 箇条書きの要約として機能する
+- gist: 要点
+- too simplistic : 簡潔すぎる
+- whatever~ : どんな〜も
+- involve : 伴う、含む
+
+P83
+- final thoughts: 最終見解
+- Oh, crap: ヤバい
+- get tricky: 悩む
+
+p84
+- writers block: 作家が新しい作品を生み出す能力を失ったり、創作上の低迷を経験したりする状態。
+- sort of: 一種の
+- hesitating: 躊躇する
+- better and better: ちょっとずつ良くなる
+- bunch of: たくさんの
+- obvious: 明らかに、明白
+- nuggets of information: 情報の塊
+- Crutch comments: 松葉杖コメント＝補助的なコメント
+- Flaws: 欠点
+- anticipate: 先読み、予想して
+- a little vague (though) : 少し曖昧（だけど）
+- watch out for: 気をつけよう
+- implement: 実装
+- improvement: 改善
+- anticipate: 先読み
+
+P85
+- precise: 正確に
+- ratio: 比率
+
+P87
+- illustrate it: 説明する
+- Ambigyous: 曖昧な
+- pronouns: 代名詞
+- resolve: 解決する
+- unclear: 不明確
+- refer to: 参照する、指す
+- fill in: 埋める、充填する
+- assume: 〜とする
+
+P88
+- sloppy: だらだらした
+- precise: 正確な
+- hand in hand: 同じ方向、
+- Describe: 記述する
+- Function behavior: 関数の動作
+- corner case: めったに発生しない厄介なケース, https://note.com/quasilight/n/n671911315eab
+
+P89
+- ignored: 無視する
+- substring: 部分文字列
+- effectively: 実際は
+- unordered set of letters: 順序付けされていない文字の集合
+- well-chosen: 適切な
+- show off: 披露する
+- rearrange: 配置し直す
+
+P90
+- visualize: 視覚化
+- illustrate: 例える
+- specific example: 具体的な例
+- a number of points to mention: いくつかのポイントを挙げてみましょう
+- State the Intent of Your Code: コードの意図を伝える
+- mention: 言及する
+
+- state: 述べる
+- end up: 終わる
+- literal terms: 文字通りの意味
+- iterate: 繰り返して処理する(eachとかmapの処理を表現)
+
+P91
+- oppsite: 正反対の
+- intended: 意図した
+- despite: ~にもかかわらず、
+- contradicts: 矛盾する
+- act as: ~として役だつ
+- redundancy: 冗長性
+- worthshile: 値打ちのある
+- in tune with: ～と調和して、～に合わせて
+- higher level: 俯瞰してとかの意味？
+- in effect: 事実上、実質的に、実際には
+- redundancy check: 冗長性チェック
+- Ideally: 理想的には、本来は
+- would have been: であったであろう
+- handy way to ~: ~に手軽な方法
+
+P93
+- long-winded: 長々と話す
+- and the like: など。
+- Canonicalize: 正規化
+- heuristic: 経験則、試行錯誤的な　反対）パターンマッチ
+- brute-force: 暗号やパスワード解読にすべてのパターンで試す
+- as is そのまま
+
+P95
+- one line at a time: 一行ずつ
+- control flow: 制御フロー
+- large number: 数が多い
+- go unnoticed: 気付かれずに通り過ぎてしまう
+
+P97
+- being interrogated: 質問される
+- against: 〜に対して
+- expand: 広げる、拡大する
+- judgement call: 好みによる、個人的意見
+
+P100
+- drawn out: 引き延ばされた、長引く、長引いている
+- spell out: 文字を略さずに書く，完全につづる
+- ternary Operator: 三項演算子
+
+P102
+- respected: 評判の良い
+- as well as: 同様に
+- at least once: 少なくとも一度は
+
+P103
+- wired: 変わっている点
+- if,while, and for: ifとwhileとfor 
+- do/while: do while文
+- silly: 馬鹿げている
+- For instance: == for example
+
+P104
+- up front: 前もって
+- desirable: 望ましい
+- guard clauses: ガード節
+- judicious: 慎重に
+
+P105
+- get out of hand: 手に負えない
+- only form: 唯一の形式
+- mental stack: 記憶の積み重ね？
+- pop: 配列から最後の要素を取り除き、その要素を返します
+- closing brace: 閉じ中括弧
+- Overall: つまり
+- toggle: ある同じ操作を繰り返すことで、機能や状態のON/OFFを切り替える仕組みのこと
+
+P106
+- Accumulates: 増える
+- it end up: それは結局
+- the way it does: 今ある状態
+- the way it did: そうなった状態
+- figure out: 具体化する、示す、理解する
+- make sense: 筋が通っている
+- chunk of code: コードの塊
+- diff: 差分
+- all that context: すべてのその背景
+- take it in: それを取り込む、把握する
+- at once: 一度に
+- perspective: 遠くからの眺め
+
+P107
+- improve: 改善する
+- applicable: 適用できる
+- analogious: 似たような
+- independent: 独立した
+
+P110
+- ideally: 理想的には
+- entire: 全体的に
+- in practice: 実際には
+- constructs: 構成要素
+- behind the scenes: 水面下で
+- follow: 追う
+- get carried away: 夢中になる
+- excessively: 過度に
+- realizing: 理解する
+- track down: 追跡する
+- abuse: 乱用する
+- trace through: トレースする
+- not let: ~させない
+- comparison: 比較
+- reorder: 再構成、再編
+- criteria: 基準、尺度
+- rule of thumb: 大まかなルール、経験則
+- ternary operator: 三項演算子
+- result in ~: ~の結果になる
+- as clearer: 明らかに
+- alternatives: 代用品
+- concentration: 集中力
+- context: 文脈
+- opt for: 選ぶ
+- linear: 直線的な
+- 
+
+Chapter 8
+P112
+- break down: 細かくする
+- fatal flaw: 致命的な欠陥
+- esophagus: 食道
+- swallow: 飲み込む
+- digestible: 要約しやすい
+- manipulate: 操作して
+
+P113
+- Explaining Variables: 説明変数
+- capture: とらえる
+- subexpression: 部分式
+- Summary Variables: 要約変数
+- capture: 代入する
+
+P114
+- own: 所有する
+- stated: 述べる
+- upfront: 
+- referring: 参照する
+- circuits: 電気回路
+- equivalent: 同じもの
+- distribute: 分配する
+- factor out: くくりだす
+
+P115
+- Short-Circuite Logic: 短絡評価
+- short circuit evaluation: 
+- pare ~ down: 減らす
+- concise: 簡潔な
+- concise nugget of code: 簡潔なコードの塊
+- abuse: 乱用
+- behavior: 行動
+- accomplish: 達成
+- occupied: 占領する
+- speed bump: 減速帯
+- beware: 注意してください
+- behavior: 行動
+- plenty of: たくさんの
+- for instance: 例えば
+- worth mentioning: 言及する価値がある
+
+P116
+- wrestling: 格闘する
+- Complicated: 複雑な
+- Suppose: 仮定する
+- implement: 実装する
+- following: 以下（に書かれている）の
+- figure: 図
+- noninclusive: 含んでいない
+- overlap: 重なる
+- attempt: 試みる
+- endpoint: 終点
+- falls inside: 含まれる、内側に落ちる
+- involved: 関わる
+- slip by: 入り込む
+- speaking of: 〜といえば、
+- ignore: 無視
+
+P118
+- A rather than B: BではなくてA
+- turn out to be: 最終的に~になる 
+
+
+P119
+- expression: 式
+- statement: 文
+- individual expression: 個別の式
+- take in: 受け取る、受け入れる
+- summary variable: 要約変数
+- for instance: 実例として
+- instance: 実体
+- scrutiny: 精査する
+
+P122
+- subtle: 微妙な
+- digest: 要約
+- explaining variables: 説明（する）変数
+- subexpression: 部分式
+- succinct: 簡潔な
+- identify: 認識する
+- complex logical condition: 複雑な論理条件
+
+P123
+- ideal: 理想
+- negating: 否定する
+
+P124
+- ringmaster: 団長
+- three-ring circus: 目まぐるしい［てんやわんやの］状況（のサーカス）
+- sloppy: 適当な、ずさんな
+- contend with: 戦う、取り組む
+- the more: 多いほど
+- the 比較級 A, the 比較級 B: AすればするほどBになる
+- eliminating variables: 変数の排除
+
+P125
+- how: どのくらい
+- introducing: 導入する
+- act as a form of documentation: ドキュメントとして
+- improve: 改良する
+- concise: 簡潔
+- unnecessary: 不必要な
+- show up: 現れる
+- intermediate results: 中間結果
+
+P127
+- control flow variables: 制御フロー変数
+- Eliminate: 削除
+- might even: かもしれない(evenはmightを強調)
+- satisfy: 満たす
+- unspoken rule: 暗黙のルール
+- break out: 抜けだす
+- sole purpose: 単一の目的
+- steer: 制御する
+- structured programming: 上手なプログラミング
+- suffice: 十分です
+- involves: 伴う、関与する
+- what if: どうする？
+- complicated: 複雑な
+- either a or b: a, bのどちらか
+
+P128
+- involve: 伴う
+- vice versa: 逆もまた然り
+- bunch of: たくさんの
+- factor of: 〜倍
+- factor of two: 2倍
+- srink by (a factor of two): (1/2に)縮める
+- suppose: 仮定する
+- member variables: メンバ変数
+- in some sense: ある意味で
+- realm: 範囲
+- the 比較級 A, the 比較級 B: AすればするほどBになる
+- the fewer: より少ない(fewの比較級)
+- demote: 降格、格下げする
+
+P129
+- make sense: 理にかなっている
+- isolated: 孤立
+- accomplished anything: 何も成し遂げていない
+- constitute: 構成する
+- point out: 紹介する
+- rest of: 残りの〜
+- conditional expression: 条件式
+
+
+P130
+
+- persistent variable: 永続的変数
+- angst: 不安、心配
+- parentheses: () 丸括弧 (英)round brackets
+- anonymous outer function: 匿名関数、無名関数
+    - 無名関数とは、コンピュータプログラム上で定義される関数のうち、名前を付けずに定義されるもの。 その場ですぐに実行したり、変数に代入したり、他の関数に引数として渡したりするのに用いられることが多い。 
+- immediately: すぐに
+- to wonder: 不思議に思う、考える
+- omit: 省略する
+- e.g: 例えば　exempli gratia ラテン語
+- inadvertently: うっかり
+- manifestation: 症状
+- unknowingly: 無意識のうちに
+- cross talk: 混信
+- conclude: 結論づける
+- possessed: 取りつかれた
+- RAM: メモリ
+- limit: 制限する
+- innermost: 最も内側の
+
+P132
+- confined to: 〜に限られた
+- spill out: 出る
+- left hand edge: 左端
+- common ancestor: 共通の祖先
+- eliminated: 除く
+
+P134
+- requirement: 要求
+- because for: 〜だから
+- right away: すぐに
+- innocently: 何も考えずに
+- pretty good: かなり良い
+- in play: 動作している
+- extra degree: 別次元な、別の角度の
+
+P136
+- highly encourages: とても推奨される
+- reason about:見通す、予測する
+- a lot of time: 何度も
+
+P137
+- a number of: たくさん
+
+P138
+- intermediate variable: 中間変数
+- but in exchange: 引き換えに
+- get in the way: 邪魔になる
+- out of sight: 見えない
+
+
+
+P141
+- reorganizing: 再建する
+- minor ways: ちょっとした方法
+- specifically: 具体的には
+- extract: 抽出する
+- unrelated subproblems: 直接関係ない問題
+- rearrange: 再編する
+- in words: 言葉で
+- entirely: 完全に
+- in the first place: まずは
+
+P142
+- plumber: 配管工
+- put back together: 元通りにする
+- robust: 柔軟に
+- aggressively: 積極的に
+- blissfully unaware: 幸いにも気づいていない
+- substantially: 実質的に
+
+- introductory: 入門
+- 
+
+P144
+- Utility code: 便利コード
+- manipulating: 操作する
+- fill in the gap: 自分で埋める
+- succinct: 簡潔な
+- inevitably: 必然的に
+- in general: 一般的に
+- assuming: 仮定して
+- over time: 時間とともに
+
+P147
+- to have around: 身近に持っていると
+- be by itself: それ単体で
+- tackle: 取り組まれている
+- project-agnostic: プロジェクトについて知らない
+- work wonders: 効果的面、驚くほどよく
+
+P152
+- pre-processing: 事前処理
+- post-processing: 後処理
+- a number of: たくさんの
+- the number of: その数の
+- turn into: 〜に変わってしまう
+- tackling: 取り組む
+- encrypt A into B: AをBに暗号化する
+- execute: 実行する
+- extract: 抜き出す
+- url-friendly = url-safe
+- subproblem: 下位の問題
+
+P154
+- track of: 追いかける
+- tangible: 実体のある、触れる
+- as it turns out: 結局のところ
+
+P157
+- vague: 曖昧な（ベイグ）
+- widget: ウィジェット、部品
+- states: 状態
+- intricate: 入り組んだ
+- glance:　一見しただけで
+- off by one errors: 境界条件
+- convince：　納得する
+- intricate: 
+
+P159
+- plenty of ~: 多くの
+- concatenate: 連結する
+- preferred: 優先する
+- affectionately: 愛情を込めて
+- middle of nowhere: 人里離れた場所
+- messy: 汚い
+- uglier: ひどい
+
+P161
+- Apply: 適用する
+- rather than : それよりも
+- B rather than A: AというよりむしろB
+- preference order: 優先順位
+- unintuitive: 直感的でない
+- similarly: 同じように
+- pieced: まとめ上げる
+- no exception: 例外ではない
+- once: =when　一度〜してしまえば
+- come up with: 思いつく
+- for instance: 例えば
+- know if 〜 : 〜かどうかを知る
+- simultaneously: 同時に
+- interwoven: 織り交ぜて
+- 
+
+P164
+- In case: ~の場合は
+- familiar with~: 馴染みがある
+- idiomic: イディオム
+- evaluates: 評価
+- preference list: 評価順のリスト（的な？
+- swept away: 無くなった
+- 
+
+P165
+- various statistics: さまざまな統計情報
+- increment: （１つ）増やす
+- fish out: 引っ張り出す, 取り出す
+- make matters worse: さらに悪いことに
+- altogether: 完全に
+- stare: 注視する
+- otherwise: その他
+- and even: 更に
+- in particular: 特に
+- back and forth: 前と後ろ、行ったりきたり
+- interleaved: 交互的
+- detect: 見つける、検知する
+- extracting: 抽出する
+- improve: 改善する
+- distinct region: 別の区分
+- separate A into B : AをBに分ける
+
+P168
+- regions: 領域
+- folloing: 以下の
+- aim: 目的
+- isolated: 分離されている
+- Note:　注意しておいてください
+- although: ~にもかかわらず
+- initially: はじめに、最初に
+- as it did here: ここでしたように
+- further: 更なる、もっと先へ行く
+- notice: 注意してください
+- regardless of: 注意しない、無頓着な
+
+P169
+- introducing: 導入する
+- alternative solution: 代替案
+- illustrate: 図解する
+- organize: 整理する、整える
+- A is as XX as B: AはBと同じくらいXX
+- A is not as XX as B: AはBほどXXではない(BのほうがXX)
+
+P171
+- take the view that:〔that以下〕という物の見方をする
+- quite a bit: たくさんの
+- negation: 否定（!）
+- the bottom line: 肝心なのは、要は、大事なことは
