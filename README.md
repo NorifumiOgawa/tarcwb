@@ -28,7 +28,6 @@ P130~) persistent variable: 永続的変数
 ### 3. End with an empty newline.
 
 ```
-$ tarcwb
 ✔ Input english word · 
 bye.
 ```
