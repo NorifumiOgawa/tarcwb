@@ -4,6 +4,8 @@
 
 'tarcwb' is an English-Japanese wordbook CLI application for reading 'The Art of Readable Code'.
 
+[![Image from Gyazo](https://i.gyazo.com/92a28e60c464629b068dea804628224b.gif)](https://gyazo.com/92a28e60c464629b068dea804628224b)
+
 ## Installation
 
 ```
