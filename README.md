@@ -19,13 +19,19 @@
 
 ### 2. Enter the word you want to look up.
 ```
-✔ Input english word › off by one
-P157~ off by one errors: 境界条件
-✔ Input english word › persistent variable
-P130~ persistent variable: 永続的変数
+✔ Input english word · off by one
+P157~) off by one errors: 境界条件
+✔ Input english word · persistent variable
+P130~) persistent variable: 永続的変数
 ```
 
 ### 3. End with an empty newline.
+
+```
+$ tarcwb
+✔ Input english word · 
+bye.
+```
 
 ## Dictionary
 
