@@ -785,3 +785,83 @@ P171
 - quite a bit: たくさんの
 - negation: 否定（!）
 - the bottom line: 肝心なのは、要は、大事なことは
+
+P172
+- dozen: 12個のダース
+- few dozen: いくつかの12の倍数の
+- cycle: 周期、サイクルでまわる
+- $(): =jQuery()
+- by describing, in words,: 言葉で説明する
+- manipulate: 操作する
+- aligned with: ~に沿っている
+- succinct: 簡潔な
+- be aware of: を認識する, 把握している
+
+P174
+- Apply:　適用する=applied
+- identify: 見つける、識別する
+- break down: 分割する
+- break away: 分離する、切り離す
+- stock purchase: 株式の売買
+- transaction: 取引（株売買の）
+- precise: 正確な
+- ticker symbol: 上場銘柄識別コード
+- share: 株式単元
+- unique primary key: ユニーク主キー
+- match up: 一致する
+- line up: 揃う、並ぶ
+
+P175
+- skip over: 飛ばす
+- 2 tied-oldest: 同じ値を持った一番古い値
+- gone off: 通り過ぎた
+
+P176
+- Could ~: 可能性がないか
+- read past: 読み飛ばす
+- the end-of-stream: DBからデータを読み取るストリームの終わり
+- description: 説明
+- what trying to do: 私たちがやろうとしていること
+- in parallel: 並行して
+- whenever〜: 〜の時は（いつも）
+- advance: 前に進む
+- the aligned rows: 揃った行
+- Keep doing this: これを続ける
+- messiest: 散らかっている
+- to present: 表現する、示す(クリアにする)
+- extract A into B: AをBに切り出す
+- 動詞 A into B: AがBに動詞
+- lining up the rows: 行を揃えるための
+
+P177
+- in the worst case: 最悪の場合
+- by apply ~ : 〜を適用する
+- never mentions~ : ~に触れていない
+- specific to: に特化した
+- comparisons: 比較
+- involved: 関与
+
+P178
+- deceptively: 一見
+- subproblems: 直接関係ない問題、下位問題
+- identify: 特定する
+- applicable: 適用できる
+- outside of: ~以外の
+- states that ~: ~と述べている
+- dedicated teddy bear: 専用のテディベア
+- describing the problem aloud: 問題を声に出して説明する
+- design: 設計
+- A into B: AをBにする
+- force: 強いる、強制する
+
+P180
+- possibly: おそらく
+- eliminate: 排除
+- features:　機能
+- lean and mean: 無駄がない
+- bother: わざわざ
+- overestimate: 多く見積もる
+- tend: 傾向
+- underestimate: 少なく見積もる
+- optimistically: 楽観的に
+- crude: 荒削りな
