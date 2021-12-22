@@ -27,7 +27,16 @@ P157~) off by one errors: 境界条件
 P130~) persistent variable: 永続的変数
 ```
 
-### 3. End with an empty newline.
+### 3. Enter the page number you want to look up.
+```
+✔ Input english word · 113
+P113~) Explaining Variables: 説明変数
+P113~) capture: とらえる
+P113~) subexpression: 部分式
+P113~) Summary Variables: 要約変数
+P113~) capture: 代入する
+```
+### 4. End with an empty newline.
 
 ```
 ✔ Input english word · 
