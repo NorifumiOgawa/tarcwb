@@ -1,6 +1,6 @@
 {
   "name": "tarcwb",
-  "version": "1.0.0",
+  "version": "1.0.190",
   "description": "This is an English-Japanese wordbook application for reading The Art of Readable Code.",
   "main": "index.js",
   "bin": {

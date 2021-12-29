@@ -865,3 +865,120 @@ P180
 - underestimate: 少なく見積もる
 - optimistically: 楽観的に
 - crude: 荒削りな
+
+P181
+- break down: 分割する
+- handle: 処理する、扱う
+- scrutinize: 吟味する
+- carve out: 掘り出す、切り分ける
+- implement: 実装
+- international date line: 日付変更線
+- when: 〜の場合
+- longitudinal: 縦軸の
+- fair: (強調する時に使うveryの上品な言い方)
+- fair amount: とてもたくさんの
+- approximately: だいたい
+- iterate: 反復する
+- Euclidean distance: 二点間の曲線距離
+
+- frequently: 頻繁に
+- some sort: いくつかのソート
+- typical: 典型的な
+- definitely: 確実に
+- instinct:　直感
+- discards: 捨てる
+- the least recently　used（LRU）: 一番使われていない
+- though: ではあるが
+- involves: 伴う
+- singly linked list: 単連結リスト
+- in a row: 1行に
+- one item cache: 単連結の一方向(A->B->C->)のリスト
+- memory footprint: メモリ使用量
+- removing requirements: 要求を減らす
+- overstated: 誇張する
+- interfere: 衝突する、干渉する
+- in subtle ways: 微妙な方法で
+ 
+P183
+- Working: 難易度
+- snap: すぐ終わる。かんたん。
+- tracking down bugs: デバッグ
+- eventually: 結局
+- cumbersome: 面倒
+- unpleasant: 楽しくない
+- natural law: 自然の法則
+- complexity: 複雑さ
+- cope: 対処
+- generic utility: 汎用的なユーティリティ
+- sidebar: 補足記事？
+- compartmentalized into: 区画化
+- nimble: 軽快
+
+P184
+- prune: 植物を剪定する
+- get in the way: 邪魔になる、妨げになる
+- reluctant: 気が進まない
+- admitting：　認める
+- isolated： 独立した
+- woven： 織り込まれている
+- unbeknownst: 気づかないうちに,人に知られずに
+- fully functional: 十分に機能していない
+- in practice: 実際には
+- unstable: 不安定な
+- away from dying: {?}
+
+P185
+- aware: わかっている
+- capability: 機能
+- modest: ちょっとした
+- every once in a while: たまに、時には
+- upfront: 事前に
+- pay off: 元が取れる
+- guaranteed to A: Aすることが保証される
+- iterable: 繰り返し可能な
+
+P186
+- be aware of: に気づいている
+- such a win: 勝ち
+- commonly cited statistic: 統計によると
+- shippable : 出荷できる＝
+- lines: 行（コードのライン）
+- balk in disbelief: 不信感を抱く
+- a mature library: 成熟したライブラリ
+- represents: 表現する、意味する
+- a fair amount of ~: たくさんの〜
+- any line of code: いかなるコードも
+- survived: 生き延びる
+- Darwinian process: ダーウィンの進化論
+
+P187
+- typically: 典型的な
+- easily (take): すぐに、(この文脈では、簡単にコードが大きくなってしまうと言う意味のeasily)
+- avoid: 避ける
+- source control: ソース管理(GitHabみたいなやつ？)
+- craves: 欲しない
+
+P188
+- as little new code as possible: 新しいコードはなるべく追加しない
+- further: 更に
+- heavier: 重い
+- ~er ~er: ~すればするほど、~になる
+- Eliminating: 排除する
+- nonessential: 必須ではない
+- overengineering: オーバーエンジニアリングhttps://postd.cc/how-to-accept-over-engineering-for-what-it-really-is/
+- rethinking requirements: 要求を再考する
+- jet the job done: 要求を満たす、やるべきことをやる
+- familiar with~: ~に慣れ親しんでおく
+- periodically: 定期的に
+- entire: 全体
+- be familiar with: 慣れ親しむ
+- periodically: 定期的に
+
+P189
+- interplay: 相互作用
+- test driven development: テスト駆動開発
+
+P190
+- mean different things to different people: 人によって異なる内容を意味する
+- get into: 関わる
+- not get into: 関わらない
