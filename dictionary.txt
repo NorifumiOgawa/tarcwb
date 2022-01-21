@@ -982,3 +982,73 @@ P190
 - mean different things to different people: 人によって異なる内容を意味する
 - get into: 関わる
 - not get into: 関わらない
+
+P191
+- mess with: 深入りする、手を出す
+- over time: 時間が経つにつれ
+- less and less: だんだん減っていく
+- more and more: だんだん
+- sort and filter: 並べ替えて、絞り込む
+- scored: 
+
+P192
+- violate: 違反する
+- minutiae: = detail?? 詳細
+- set up: 値を詰める
+- about A, not about B: BではなくてA
+
+P193
+- eyesore：　めざわり
+- improve：　改善する
+- test statement: テスト文
+
+P194
+- minimal: 最小限の
+- describe: 表現する
+- as you can see: 見ての通り
+- were able to boil the essence of : つまるところ〜できた
+- not uncommon: 珍しくない
+- boils down: 煮詰める、要約する、ずばり言う
+- implementing: 実装する
+- custom: オリジナルの
+- Minilanguages: ミニ言語
+- describe: 表す
+- array literals: 配列文字={}
+- commas: カンマ
+- for this approach to work: この方法でやるなら
+- express: 表現する
+
+P195
+- completeness: 完璧さ
+- populate: 作る
+- at first glance: 初見では
+- incredibly: すごい
+- entire:　全体
+- mini language: ≒ DSL
+
+P196
+- preceding: 前の
+- produces: 作る
+- obviously: 明らかに
+- fortunately: 幸運なことに
+- sophisticated: 洗練された
+- pay off: 元が取れる（落ちるたびに時間を節約できる）
+
+P197
+- the built-in statement: 組み込みの文（仕組み）
+- instead: 〜の代わりに
+- probably: おそらく
+- it pays: 割に合う、値する
+
+P198
+- could be: できるだろう
+- ideal: 理想の
+- the moral of the story: この話の教訓は
+- an art: 技術
+- haphazard: 行き当たりばったり、でたらめの
+- thoroughly: 網羅的に
+- suppose：　仮定する
+
+P199
+- trigger: 引き起こす
+- needlessly complex: 不必要に複雑
